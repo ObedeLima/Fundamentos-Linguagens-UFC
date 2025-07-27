@@ -5,13 +5,13 @@ Este desafio apresenta um diagrama explicativo sobre **compiladores**, **interpr
 ## Definições
 
 - **Compilador**: Traduz todo o código-fonte para código de máquina antes da execução.
-  - 📌 Exemplo: `C`, `C++` → usam `gcc`, `clang`, etc.
+  - Exemplo: `C`, `C++` → usam `gcc`, `clang`, etc.
   
 - **Interpretador**: Lê e executa o código linha por linha, sem gerar um executável completo.
-  - 📌 Exemplo: `Python`, `Ruby`
+  -  Exemplo: `Python`, `Ruby`
 
 - **Máquina Virtual (VM)**: Um ambiente intermediário entre o código-fonte e o hardware real, normalmente interpretando bytecode.
-  - 📌 Exemplo: `Java` → usa a JVM (Java Virtual Machine)
+  - Exemplo: `Java` → usa a JVM (Java Virtual Machine)
 
 ## Diagrama Ilustrativo
 
