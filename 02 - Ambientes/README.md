@@ -32,8 +32,6 @@ Neste desafio, vamos explorar os principais componentes dos ambientes de program
 ## 2. Diagrama Explicativo
 <img width="905" height="615" alt="Captura de tela 2025-07-27 155733" src="https://github.com/user-attachments/assets/8b71be2d-7688-49ee-89f1-0fb01f132ecb" />
 
-```
-
 ---
 
 ## 3. Comparação entre os Modelos
