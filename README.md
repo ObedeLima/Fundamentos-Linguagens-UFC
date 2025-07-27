@@ -10,6 +10,7 @@ O trabalho inclui a resolução de 14 desafios, cada um abordando um tema centra
 ## Estrutura do Repositório
 
 Fundamentos-Linguagens-UFC/
+
 ├──README.md
 
 
