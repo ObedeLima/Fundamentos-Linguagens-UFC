@@ -30,9 +30,24 @@ Neste desafio, vamos explorar os principais componentes dos ambientes de program
 ---
 
 ## 2. Diagrama Explicativo
+<img width="905" height="615" alt="Captura de tela 2025-07-27 155733" src="https://github.com/user-attachments/assets/8b71be2d-7688-49ee-89f1-0fb01f132ecb" />
 
-<img width="905" height="615" alt="image" src="https://github.com/user-attachments/assets/788c7854-fd81-44bf-abd2-1642eb908d63" />
 
+```plaintext
++----------------------+      +----------------------+      +----------------------+
+|    Código Fonte      | -->  |    Compilador        | -->  |    Código de Máquina |
+|  (Ex: hello.c)       |      |  (Ex: gcc)           |      |   (hello.exe)        |
++----------------------+      +----------------------+      +----------------------+
+
++----------------------+      +----------------------+
+|    Código Fonte      | -->  |   Interpretador      |
+|  (Ex: script.py)     |      |  (Ex: Python)        |
++----------------------+      +----------------------+
+
++----------------------+      +----------------------+      +----------------------+
+|    Código Fonte      | -->  | Compilador p/ Bytecode| --> | Máquina Virtual (JVM)|
+|  (Ex: hello.java)    |      | (Ex: javac)           |      | Executa bytecode     |
++----------------------+      +----------------------+      +----------------------+
 ```
 
 ---
