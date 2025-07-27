@@ -9,7 +9,7 @@ Cada pasta corresponde a um dos temas abordados na disciplina e contém um `READ
 
 ## Estrutura do Repositório
 
-
+```
 Fundamentos-Linguagens-UFC/
 │
 ├── 01-introducao/         
@@ -26,7 +26,7 @@ Fundamentos-Linguagens-UFC/
 ├── 12-programacao-logica/    
 ├── 13-scripts-web/            
 └── 14-tendencias/           
-
+```
 
 
 ---
