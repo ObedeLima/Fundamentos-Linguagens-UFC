@@ -14,8 +14,7 @@ Fundamentos-Linguagens-UFC/
 ├── README.md
 
 ├── 01-Introducao/
-
-  │   Linha do tempo das linguagens
+ Linha do tempo das linguagens
 
 ├── 02-Ambientes/
 
