@@ -3,7 +3,7 @@
 
 ## Linguagem: Pseudocódigo inspirado em Prolog
 
-O objetivo é representar logicamente as **cores de um mapa**, garantindo que regiões vizinhas não tenham a mesma cor.
+Neste desafio o objetivo é representar logicamente as **cores de um mapa**, garantindo que regiões vizinhas não tenham a mesma cor.
 
 ---
 
