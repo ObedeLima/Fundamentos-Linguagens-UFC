@@ -1,4 +1,4 @@
-<img width="1305" height="799" alt="image" src="https://github.com/user-attachments/assets/19ce9856-388b-44d1-bea6-4b598270d65c" />
+
 
 # Desafio 01 - Introdução às Linguagens de Programação
 
@@ -7,7 +7,7 @@
 Este desafio apresenta uma linha do tempo com os principais marcos da história das linguagens de programação. Cada marco representa uma mudança significativa na forma como os programas são escritos, interpretados e executados.
 
 ---
-
+<img width="1305" height="799" alt="image" src="https://github.com/user-attachments/assets/19ce9856-388b-44d1-bea6-4b598270d65c" />
 ## Linha do Tempo Histórica
 
 ### **1950s**
