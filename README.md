@@ -10,37 +10,35 @@ O trabalho inclui a resolução de 14 desafios, cada um abordando um tema centra
 ## Estrutura do Repositório
 
 Fundamentos-Linguagens-UFC/
-├── README.md
-├── 01-introducao/
-│   Linha do tempo da evolução das linguagens
-├── 02-ambientes/
-│   Diagrama e explicação sobre ambientes de programação
-├── 03-sintaxe-semantica/
-│   Mini-gramática fictícia + análise léxica
-├── 04-tipos-de-dados/
-│   Comparação entre tipagens de linguagens
-├── 05-estruturas-de-controle/
-│   Exemplo com estruturas de seleção e repetição
-├── 06-subprogramas/
-│   Funções com passagem por valor e referência
-├── 07-implementacao-subprogramas/
-│   Pilha de chamadas de um exemplo recursivo
-├── 08-orientacao-objetos/
-│   Hierarquia de classes com POO
-├── 09-concorrencia/
-│   Implementação com threads/processos
-├── 10-gerenciamento-memoria/
-│   Comparativo sobre gerenciamento de memória
-├── 11-programacao-funcional/
-│   Solução funcional com recursão e funções de alta ordem
-├── 12-programacao-logica/
-│   Problema modelado em lógica (estilo Prolog)
-├── 13-scripts-web/
-│   Script de automação ou manipulação de dados
-└── 14-tendencias/
-    Análise crítica de linguagem emergente
-
-
+│
+├── 01-Introducao/
+│   Linha do tempo das linguagens
+├── 02-Ambientes/
+│   Diagrama sobre Compiladores, interpretadores e VMs
+├── 03-Sintaxe e Semantica/
+│   Mini-gramática fictícia
+├── 04-Tipos de Dados/
+│   Comparação entre linguagens
+├── 05-Estruturas de Controle/
+│   Uso de estruturas de seleção, repetição e controle de fluxo
+├── 06-Subprogramas/
+│   Passagem por valor e referência
+├── 07-Implementação de Subprogramas/
+│   Pilha de chamadas
+├── 08-Programação Orientada a Objetos/
+│   Hierarquia de classes
+├── 09-Concorrência/
+│   Exemplo com threads
+├── 10-Gerenciamento de Memória/
+│   Comparação de memória entre linguagens
+├── 11-Programação Funcional/
+│   Funções de alta ordem e recursão
+├── 12-Programação Lógica/
+│   Modelagem lógica
+├── 13-Linguagens para Scripts e Web/
+│   Script de automação com Python
+└── 14-Tendências em Linguagens de Programação/
+    Análise de linguagem emergente
 
 ---
 Obede Lima do Nascimento — 555208 — SI 
