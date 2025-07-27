@@ -15,59 +15,59 @@ Fundamentos-Linguagens-UFC/
 
 ├── 01-Introducao/
 
-│   Linha do tempo das linguagens
+  │   Linha do tempo das linguagens
 
 ├── 02-Ambientes/
 
-│   Diagrama sobre Compiladores, interpretadores e VMs
+  │   Diagrama sobre Compiladores, interpretadores e VMs
 
 ├── 03-Sintaxe e Semantica/
 
-│   Mini-gramática fictícia
+  │   Mini-gramática fictícia
 
 ├── 04-Tipos de Dados/
 
-│   Comparação entre linguagens
+  │   Comparação entre linguagens
 
 ├── 05-Estruturas de Controle/
 
-│   Uso de estruturas de seleção, repetição e controle de fluxo
+  │   Uso de estruturas de seleção, repetição e controle de fluxo
 
 ├── 06-Subprogramas/
 
-│   Passagem por valor e referência
+  │    Passagem por valor e referência
 
 ├── 07-Implementação de Subprogramas/
 
-│   Pilha de chamadas
+  │   Pilha de chamadas
 
 ├── 08-Programação Orientada a Objetos/
 
-│   Hierarquia de classes
+  │   Hierarquia de classes
 
 ├── 09-Concorrência/
 
-│   Exemplo com threads
+  │   Exemplo com threads
 
 ├── 10-Gerenciamento de Memória/
 
-│   Comparação de memória entre linguagens
+  │   Comparação de memória entre linguagens
 
 ├── 11-Programação Funcional/
 
-│   Funções de alta ordem e recursão
+  │   Funções de alta ordem e recursão
 
 ├── 12-Programação Lógica/
 
-│   Modelagem lógica
+  │   Modelagem lógica
 
 
 ├── 13-Linguagens para Scripts e Web/
-│   Script de automação com Python
+  │   Script de automação com Python
 
-└── 14-Tendências em Linguagens de Programação/
+├── 14-Tendências em Linguagens de Programação/
 
-│    Análise de linguagem emergente
+  │    Análise de linguagem emergente
 
 
 ---
