@@ -9,7 +9,7 @@ O trabalho inclui a resolução de 14 desafios, cada um abordando um tema centra
 
 ## Estrutura do Repositório
 
-```
+.
 Fundamentos-Linguagens-UFC/
 ├── README.md
 ├── 01-Introducao/
@@ -40,7 +40,35 @@ Fundamentos-Linguagens-UFC/
 │   Script de automação com Python
 └── 14-Tendências em Linguagens de Programação/
     Análise de linguagem emergente
-```
+
+
+**Explicação:**
+
+- **`# Estrutura do Projeto`**: Define um título para a seção.
+- **`...`**: Representa o diretório raiz.
+- **`├── ...`**: Indica um item dentro de um diretório, na mesma linha.
+- **`│   └── ...`**: Indica um item dentro de um diretório, com um nível de indentação adicional.
+- **`\n`**: Quebra de linha para criar uma nova linha na árvore.
+- **`README.md`**: Arquivo principal da documentação.
+- **`src`**: Diretório de código fonte.
+- **`main.py`**: Arquivo principal do projeto.
+- **`utils.py`**: Módulo de utilidades.
+- **`tests`**: Diretório de testes.
+- **`test_main.py`**: Teste do arquivo `main.py`.
+- **`test_utils.py`**: Teste do arquivo `utils.py`.
+
+**Outro exemplo utilizando listas:**
+
+```markdown
+# Estrutura do Projeto
+
+1. **src/**
+    - 1.1. main.py
+    - 1.2. utils.py
+2. **tests/**
+    - 2.1. test_main.py
+    - 2.2. test_utils.py
+3. README.md
 
 ---
 Obede Lima do Nascimento — 555208 — SI 
