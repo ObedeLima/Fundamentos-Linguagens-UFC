@@ -9,7 +9,7 @@ O trabalho inclui a resolução de 14 desafios, cada um abordando um tema centra
 
 ## Estrutura do Repositório
 
-```
+
 Fundamentos-Linguagens-UFC/
 │
 ├── 01-Introducao/             # Linha do tempo das linguagens
@@ -26,7 +26,8 @@ Fundamentos-Linguagens-UFC/
 ├── 12-Programação Lógica/     # Modelagem lógica
 ├── 13-Linguagens para Scripts e Web/            # Script de automação com Python
 └── 14-Tendências em Linguagens de Programação/             # Análise de linguagem emergente
-```
+
+
 
 
 ---
